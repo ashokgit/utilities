@@ -8,7 +8,6 @@ To run the docker installation script, follow these steps:
 
 ```
 chmod +x docker-install.sh
-Execute the script using the following command:
 ./docker-install.sh
 ```
 
